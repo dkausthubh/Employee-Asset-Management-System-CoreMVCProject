@@ -1,4 +1,4 @@
-# Employee Asset Management System
+# Employee Asset Management System - .Net Core MVC Project
 
 It's a modular enterprise asset tracking application implementing N-Layer Architecture with Repository, Singleton, and Factory design patterns — demonstrating clean, maintainable, production-grade .NET code architecture.
 
