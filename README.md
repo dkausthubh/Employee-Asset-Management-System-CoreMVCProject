@@ -1,6 +1,6 @@
-# MVCCORE_DemoCRUDProject
+# Employee Asset Management System
 
-This a sample .NET CORE MVC Project with simple CRUD Operations using Enity Framework Core 7.0, html, css, bootstrap
+It's a modular enterprise asset tracking application implementing N-Layer Architecture with Repository, Singleton, and Factory design patterns — demonstrating clean, maintainable, production-grade .NET code architecture.
 
 startup: CoreMVCDEmo sln
 
